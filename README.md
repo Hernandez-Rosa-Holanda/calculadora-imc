@@ -1,2 +1,2 @@
-# Calculadora-IMC-
-Calculadora de IMC
+# Calculadora-IMC
+Calculadora de IMC desenvolvida em curso on-line. 
